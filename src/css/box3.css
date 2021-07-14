@@ -1,0 +1,13 @@
+#box3{
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	background-color: yellow;
+	
+}
+
+#box3 span{
+		font-size: 35px;
+		font-weight: bold;
+		color: pink
+	}

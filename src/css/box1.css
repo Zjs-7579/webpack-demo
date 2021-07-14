@@ -1,0 +1,13 @@
+#box1{
+	width: 100px;
+	height: 100px;
+	margin: 0 auto;
+	background-color: red;
+
+}
+
+#box1 p{
+	font-size: 35px;
+	font-weight: bold;
+	color: green
+}
